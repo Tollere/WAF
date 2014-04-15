@@ -1,0 +1,9 @@
+[submodule "scripts/dojo"]
+	path = scripts/dojo
+	url = git://github.com/dojo/dojo
+[submodule "scripts/qash"]
+	path = scripts/qash
+	url = git://github.com/Akeron972/qash
+[submodule "scripts/qasht"]
+	path = scripts/qasht
+	url = git://github.com/Akeron972/qasht
